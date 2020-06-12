@@ -40,9 +40,6 @@ Bước 8: Quay về bước 5, xem thử số lượng packet bắt được đ
 |STT     | SSID      | Password  |  Keylength        | Kết Quả  |
 | ------------- |:-------------:| -----:|:-------------:| -----:|
 | 1   | MrKiett007 |_*KietKhe.@/; |128-bits| Thành công|
-| 2   | MrKiett007  |  CaoBaKiet1999 |128-bits|Thành công|
-|3 | MrKiett007 |   MrA12 |64-bits|Thành công|
-|4|MrKiett007|  Mr_*1 |64-bits|Thành công|
 
 **Chi tiết các bước thực hiện:**
 Bước 1: Tìm kiếm Wireless Adapter
